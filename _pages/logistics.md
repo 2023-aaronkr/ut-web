@@ -11,41 +11,23 @@ title: Information / 과정정보
 
 ### Course Information / 과정정보
 
-본 과목은 의료영상을 이용한 의사들의 진단 과정에 있어서 컴퓨터를 이용한 보조 진단(Computer Aided Diagnosis; CAD) 도구 및 영상분석기법에 대해 학습하는 과목이다. 구체적으로는 CAD를 위한 다양한 영상분석기법 기초 및 의료영상에서의 병변 검출에 초점을 둔 CADe와 병변의 진단 및 병변에 대한 특성 분석(예를 들어, 양성과 악성) 등의 분류에 초점을 둔 CADx에 대해 학습한다.
+웹 페이지를 개발하기 위한 기본 언어인 HTML/XHTML, CSS, JavaScript 의 기본 문법을 이해한다.
 
-- **바이오메디컬 SW개발능력(60%)** 바이오메디컬 관련 주요한 소프트웨어를 효율적으로 설계, 개발 및 평가할 수 있다.
-- **바이오메디컬 이론 능력(10%)** 바이오메디컬 관련 다양한 이론에 대해 이해하고 분석하여 새로운 연구 분야에 응용할 수 있다.
-- **바이오메디컬 실무능력(10%)** 바이오메디컬 관련 지식을 효율적으로 활용하여 실무에 적용할 수 있다.
-- **창의적 문제해결력(10%)** 주어진 문제에 대해 필요한 여러 기술을 창의적으로 적용할 수 있다.
-- **융합산업적응력(10%)** 전공능력을 바탕으로 산업 현장에 필요한 기술을 실무적으로 적용할 수 있다.
+- **컴퓨팅사고력(50%)** 문제를 분석하고, 한정된 조건을 고려하여 문제 해결 방법을 찾을 수 있음
+- **데이터 분석과 표현능력(20%)** 수집된 데이터의 형식을 이해하고, 응용 분야에 적합한 형태로 변화, 활용할 수 있음
+- **알고리즘과 프로그래밍 능력(30%)** 문제 해결을 위한 알고리즘을 설계하고, 복잡도를 분석할 수 있으며, 프로그램으로 구현할 수 있음
 
-This course is a course to learn Computer Aided Diagnosis (CAD) tools and image analysis techniques in the diagnosis process of doctors using medical images. Specifically, students will learn about CADe, which focuses on the basics of various image analysis techniques for CAD and lesion detection in medical images, and CADx, which focuses on classification such as diagnosis of lesions and characterization of lesions (e.g., benign and malignant).
+Students will understand the basic grammar of HTML/XHTML, CSS, and JavaScript, which are the basic languages for developing web pages.
 
-- **Biomedical SW Development Ability (60%)** Able to efficiently design, develop and evaluate major software related to biomedical science.
-- **Biomedical Theory Ability (10%)** Able to understand and analyze various theories related to biomedical science and apply them to new fields of research.
-- **Biomedical Practical Ability (10%)** Able to apply biomedical-related knowledge to practice by efficiently utilizing what is learned in class.
-- **Creative Problem Solving Ability (10%)** Able to creatively apply various necessary skills to a given problem.
-- **Convergence Industry Adaptability (10%)** Based on major competencies, able to practically apply the skills required in the industrial field.
-
-### Textbooks / 교재
-
-While there is no required textbook for this class, the following resources are where much of the course material will be derived from. If you are interested in learning more about the topics covered in this class, I recommend purchasing the following book:
-
-- 제오프 도허티, [디지털 의료영상처리 기초부터 분석, 응용까지](https://www.yes24.com/Product/Goods/95858463){:target="\_blank"}.
-
-The course may also use excerpts from the following work, which you do not need to purchase:
-
-- Klaus D. Toennies, [Guide to Medical Image Analysis: Methods and Algorithms](https://link.springer.com/book/10.1007/978-1-4471-7320-5){:target="\_blank"}.
-
-Much of the Jupyter Notebook programming assignments will be based on the following course material:
-
-- Dr. Maureen van Eijnatten, Dr. Cian Scannell, Seb Harrevelt, MSc., [Medical Image Analysis Course (8DC00)](https://8dc00-mia-docs.readthedocs.io/en/latest/index.html){:target="\_blank"}.
+- **Computational thinking ability (50%)** Able to analyze problems and find solutions to problems in consideration of limited conditions
+- **Data analysis and expression ability (20%)** Able to understand the format of collected data, and be able to change and utilize it in a form suitable for the application field
+- **Algorithm and programming ability (30%)** Able to design algorithms to solve problems, analyze their complexity, and implement them as programs
 
 ---
 
 ### Grading
 
-The class requirements include brief reading summaries, (at least) 2 projects, and 2 tests.
+The class requirements include brief reading summaries, (at least) 3 projects, and 2 tests.
 The grading breakdown is as follows:
 
 - Attendance (& Participation) (10%)
@@ -71,7 +53,7 @@ These assignments may contain material that has been covered by published papers
 
 ### Projects (10%)
 
-There will be (at least) two projects in this class. You will be required to submit a Jupyter notebook with your code and results, and a PDF report with your report and answers to the questions.
+There will be (at least) three projects in this class (HTML, CSS, JavaScript). You will be required to submit a URL with your code or results.
 
 ### Tests (50%)
 

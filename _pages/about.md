@@ -1,15 +1,16 @@
 ---
 layout: about
 permalink: /
-title: 의료영상진단 <b>C</b>omputer-<b>A</b>ided <b>D</b>iagnosis
-description: BIO030 • 2023년 2학기 • 교통대학교
+title: <b>웹</b>프로그래밍기초 <b>WEB</b> Programming Foundations
+description: 259111 • 2023년 2학기 • 교통대학교
 logo: ut-logo.jpg
 news: true
 ---
 
-- **Time:** 화 789 | Tuesday 3:00pm - 5:50pm
-- **Location:** [W18 (미래융합정보관) - 104호](https://naver.me/GSHd39rS){:target="\_blank"}
-- **KakaoTalk:** [카카오톡 오픈채팅](https://open.kakao.com/o/gyKV6LDf){:target="\_blank"}
+- **Time:** 수 123, 567 | Wednesday 9:00am - 11:50am, 1:00pm - 3:50pm
+- **Location:** [W18 (미래융합정보관) - 108호](https://naver.me/GSHd39rS){:target="\_blank"}
+- **KakaoTalk AM:** [카카오톡 ☕ 오픈채팅](https://open.kakao.com/o/gpQLjODf){:target="\_blank"}
+- **KakaoTalk PM:** [카카오톡 🍔 오픈채팅](https://open.kakao.com/o/gEEjkODf){:target="\_blank"}
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
@@ -20,34 +21,18 @@ news: true
 
 ---
 
-본 과목은 의료영상을 이용한 의사들의 진단 과정에 있어서 컴퓨터를 이용한 보조 진단(Computer Aided Diagnosis; CAD) 도구 및 영상분석기법에 대해 학습하는 과목이다. 구체적으로는 CAD를 위한 다양한 영상분석기법 기초 및 의료영상에서의 병변 검출에 초점을 둔 CADe와 병변의 진단 및 병변에 대한 특성 분석(예를 들어, 양성과 악성) 등의 분류에 초점을 둔 CADx에 대해 학습한다.
+웹 페이지를 개발하기 위한 기본 언어인 HTML/XHTML, CSS, JavaScript 의 기본 문법을 이해한다.
 
-먼저 이미지 분석의 기본 원칙을 다룬다. 나중에 다루는 주제에는 이미지 정합 및 CAD(Computer-Aided Diagnostic)가 포함된다. 국제한 시대에 맞게 영어 표현도 배운다.
-
-이 과정을 통과한 학생은 다음을 수행할 수 있습니다.
-
-- 포인트 및 강도 기반 이미지 등록의 기본 원리를 설명합니다.
-- (균질한) 2차원 변환 행렬을 구성하고 의료 영상 정합 문제의 예를 들어 필요한 변환 모델, 영상 유사도 측정 및 최적화 방법을 식별합니다.
-- k-nearest neighbors 알고리즘과 선형 및 로지스틱 회귀를 포함하여 의료 이미지 분석 작업(분류 및 회귀)을 위한 기계 학습의 기본 원리를 설명합니다.
-- (컨벌루션) 신경망의 다양한 빌딩 블록을 상기하고 지도 및 비지도 기계 학습 기술이 의료 이미지 분석 문제에 어떻게 적용될 수 있는지 설명합니다.
-- 최적화와 같은 기본적인 공학 및 수학적 기법을 사용하여 의료 영상 분석 방법을 설계하고 이러한 기법을 Python으로 구현합니다.
-- 적절한 검증 지표를 사용하여 의료 영상 분석 방법의 성능을 분석하고 과학적 보고서에서 결과를 해석합니다.
-
-이 과정은 네덜란드 아인트호벤 공과대학의 [의료 영상 분석 그룹 아인트호벤(IMAG/e)](https://www.tue.nl/en/research/research-groups/medical-image-analysis)에서 개발한 [자료](https://8dc00-mia-docs.readthedocs.io/en/latest/index.html)를 사용합니다.
+- HTML은 웹사이트의 구조를 제공합니다. HTML 태그를 공부한 후 수업에서 간단한 웹페이지를 함께 만듭니다. 그런 다음 개인 웹 페이지 프로젝트가 할당됩니다.
+- CSS는 웹사이트의 스타일을 제공합니다. CSS 규칙을 공부한 후, 이전에 생성된 클래스 웹 페이지는 함께 스타일이 지정됩니다. 그런 다음 CSS 스타일을 추가하기 위해 개인 웹 페이지 프로젝트가 할당됩니다. 세 번째 웹 페이지를 할당하여 처음부터 만들 수도 있습니다(선택).
+- JavaScript는 웹사이트의 기능을 제공합니다. 자바스크립트의 문법과 기능의 기초를 공부한 후, 간단한 상호작용을 클래스 웹페이지에 추가할 것입니다. 그런 다음 학생들은 자신의 웹페이지에 추가(다른) 기능을 추가해야 합니다. 마지막으로 네 번째 추가 웹페이지를 처음부터 디자인하도록 할당할 수도 있습니다(선택).
 
 ---
 
-This is a course to learn Computer-Aided Diagnosis (CAD) tools and image analysis techniques in the diagnosis process of doctors using medical images. Specifically, students will learn about CADe, which focuses on the basics of various image analysis techniques for CAD and lesion detection in medical images, and CADx, which focuses on classification such as diagnosis of lesions and characterization of lesions (e.g., benign and malignant).
+Students will understand the basic grammar of HTML/XHTML, CSS, and JavaScript, which are the basic languages for developing web pages.
 
-First, the basic principles of image analysis are covered. Topics covered later include image registration and computer-aided diagnostics (CAD). We also learn English expressions suitable for the international era.
-
-- Describes the basic principles of point- and intensity-based image registration.
-- Construct a (homogeneous) two-dimensional transformation matrix, exemplify a medical image registration problem, identify required transformation models, image similarity measures, and optimization methods.
-- Describe the basic principles of machine learning for medical image analysis tasks (classification and regression), including the k-nearest neighbors algorithm and linear and logistic regression.
-- Recall the various building blocks of (convolutional) neural networks and explain how supervised and unsupervised machine learning techniques can be applied to medical image analysis problems.
-- Design medical image analysis methods using basic engineering and mathematical techniques such as optimization and implement these techniques in Python.
-- Analyze the performance of medical image analysis methods using appropriate validation metrics and interpret the results in scientific reports.
-
-This course will be using [materials](https://8dc00-mia-docs.readthedocs.io/en/latest/index.html) developed by the [Medical Image Analysis Group Eindhoven (IMAG/e)](https://www.tue.nl/en/research/research-groups/medical-image-analysis) at the Eindhoven University of Technology in the Netherlands.
+- HTML provides the structure of the website. After studying HTML tags, we create simple webpages together in class. Students will then be assigned a Personal Web Page project.
+- CSS provides the style of the website. After studying the CSS rules, the previously created class web pages will be styled together. The Personal Web Page project will be assigned to add CSS styles. Or students can choose to build a new webpage from scratch (optional).
+- JavaScript powers the functionality of the website. After studying the basics of JavaScript syntax and functionality, we will add simple interactions to our class webpage. Students then need to add additional (other) features to their Personal Web Page project. Or students can choose to build a new webpage from scratch (optional).
 
 ---
