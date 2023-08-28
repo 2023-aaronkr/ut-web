@@ -113,7 +113,6 @@
     <strong>16 자바스크립트와 객체 / JavaScript and Objects</strong>
   slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
   readings:
-    - Medical Image Analysis (8DC00), <a href="https://8dc00-mia-docs.readthedocs.io/en/latest/reader/2.4_Unsupervised_learning_PCA.html" target="_blank">Topic 2.4 Unsupervised learning, PCA</a>
   logistics:
 
 - date: 11/29
@@ -122,7 +121,6 @@
     <strong>17 문서 객체 모델(DOM) / Document Object Model (DOM)</strong>
   slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
   readings:
-    - Medical Image Analysis (8DC00), <a href="https://8dc00-mia-docs.readthedocs.io/en/latest/reader/2.5_CAD_project.html" target="_blank">Project 2 Computer-aided diagnosis</a>
   logistics:
 
 - date: 12/6
