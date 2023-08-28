@@ -1,31 +1,31 @@
 Main-Text:
-  - text: "참고서적"
-    author: "제오프 도허티 저 / 김경섭, 이문호, 정성환, 정회경 공저"
+  - text: "주교재"
+    author: "고경희"
     title: >
-      <strong>디지털 의료영상처리 기초부터 분석, 응용까지</strong>
-    publisher: "홍릉과학출판사-987"
-    link: "https://www.yes24.com/Product/Goods/95858463"
+      <strong>Do it! HTML+CSS+자바스크립트 웹 표준의 정석:  한 권으로 끝내는 웹 기본 교과서</strong>
+    publisher: "이지스퍼블리싱 | 2021년 01월 22일"
+    link: "https://www.yes24.com/Product/Goods/96674934"
     code:
     notes:
     image: texts/medical-imaging-text.jpg
 
 Supplementary:
   - text: "참고서적"
-    author: "Klaus D. Toennies"
+    author: "존 두켓 저 / 홍영표 역"
     title: >
-      <strong>Guide to Medical Image Analysis: Methods and Algorithms</strong>
-    publisher: "Springer-Verlag London Ltd. 2017"
-    link: "https://link.springer.com/book/10.1007/978-1-4471-7320-5"
+      <strong>HTML & CSS 웹사이트 개발과 디자인 기초</strong>
+    publisher: "에이콘출판사 | 2012년 11월 30일"
+    link: "https://www.yes24.com/Product/Goods/8007403"
     code:
     notes:
     image:
 
   - text: "참고서적"
-    author: "Dr. Maureen van Eijnatten, Dr. Cian Scannell, Seb Harrevelt, MSc."
+    author: "존 두켓 저 / 장현희 역"
     title: >
-      <strong>Medical Image Analysis Course (8DC00)</strong>
-    publisher: "Medical Image Analysis Group Eindhoven (IMAG/e), Eindhoven University of Technology, Netherlands"
-    link: "https://8dc00-mia-docs.readthedocs.io/en/latest/index.html"
+      <strong>자바스크립트 & 제이쿼리</strong>
+    publisher: "제이펍 | 2015년 03월 31일"
+    link: "https://www.yes24.com/Product/Goods/17255377"
     code:
     notes:
     image:

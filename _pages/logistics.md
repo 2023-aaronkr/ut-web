@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: logistics
 permalink: /logistics/
 title: Information / 과정정보
 ---

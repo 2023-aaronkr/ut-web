@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: Aaron Snowberger
-name: UT | BIO030
-title: 의료영상진단 CAD
-email: aaronkr.trainer@gmail.com
+name: UT | 259111
+title: 웹프로그래밍기초
+email: aaronkr@g.ut.ac.kr
 description: >
-  BIO030 - 의료영상진단 CAD - 교통대학교 - 2023년 2학기
+  259111 - 웹프로그래밍기초 - 교통대학교 - 2023년 2학기
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url: https://2023-aaronkr.github.io # the base hostname & protocol for your site
-baseurl: /ut-cad/ # the subpath of your site, e.g. /blog/
+baseurl: /ut-web/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
