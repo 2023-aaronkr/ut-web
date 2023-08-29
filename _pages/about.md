@@ -34,5 +34,3 @@ Students will understand the basic grammar of HTML/XHTML, CSS, and JavaScript, w
 - HTML provides the structure of the website. After studying HTML tags, we create simple webpages together in class. Students will then be assigned a Personal Web Page project.
 - CSS provides the style of the website. After studying the CSS rules, the previously created class web pages will be styled together. The Personal Web Page project will be assigned to add CSS styles. Or students can choose to build a new webpage from scratch (optional).
 - JavaScript powers the functionality of the website. After studying the basics of JavaScript syntax and functionality, we will add simple interactions to our class webpage. Students then need to add additional (other) features to their Personal Web Page project. Or students can choose to build a new webpage from scratch (optional).
-
----

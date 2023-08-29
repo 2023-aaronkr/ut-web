@@ -1,18 +1,21 @@
 <table class="table textbooks clearfix" style="border: none">
   <colgroup>
-    <col style="width: 20%" />
-    <col style="width: 80%" />
+    <col style="width: 10%" />
+    <col style="width: 90%" />
   </colgroup>
   <tbody>
     {% for text in site.data.texts.Main-Text %}
     <tr class="textbook">
       <th scope="row">
         <a href="{{ text.link }}" target="_blank"
-          ><img src="{{ text.image | prepend: '/assets/img/' | relative_url }}"
+          ><img
+            width="100"
+            style="box-shadow: 1px 1px 5px gainsboro"
+            src="{{ text.image | prepend: '/assets/img/' | relative_url }}"
         /></a>
       </th>
       <th>
-        <ol class="text-info" style="list-style: none">
+        <ol class="text-info" style="list-style: none; padding-left: 0">
           <li>
             <span>Text:</span>
             <a href="{{ text.link }}" target="_blank">{{ text.title }}</a>
@@ -27,12 +30,15 @@
       <th scope="col">
         {% if text.image %}
         <a href="{{ text.link }}" target="_blank"
-          ><img src="{{ text.image | prepend: '/assets/img/' | relative_url }}"
+          ><img
+            width="100"
+            style="box-shadow: 1px 1px 5px gainsboro"
+            src="{{ text.image | prepend: '/assets/img/' | relative_url }}"
         /></a>
         {% endif %}
       </th>
       <td>
-        <ol class="text-info" style="list-style: none">
+        <ol class="text-info" style="list-style: none; padding-left: 0">
           <li>
             <span>Supplementary:</span>
             <a href="{{ text.link }}" target="_blank">{{ text.title }}</a>
