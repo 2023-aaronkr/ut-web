@@ -1,3 +1,4 @@
+<h3 class="textbooks-title">Textbooks / 주교재</h3>
 <table class="table textbooks clearfix" style="border: none">
   <colgroup>
     <col style="width: 10%" />
@@ -14,7 +15,7 @@
             src="{{ text.image | prepend: '/assets/img/' | relative_url }}"
         /></a>
       </th>
-      <th>
+      <td>
         <ol class="text-info" style="list-style: none; padding-left: 0">
           <li>
             <span>Text:</span>
@@ -23,7 +24,7 @@
           <li><span>Author:</span> {{ text.author }}</li>
           <li><span>Publisher:</span> {{ text.publisher }}</li>
         </ol>
-      </th>
+      </td>
     </tr>
     {% endfor %} {% for text in site.data.texts.Supplementary %}
     <tr class="textbook">

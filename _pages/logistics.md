@@ -4,8 +4,7 @@ permalink: /logistics/
 title: Information / 과정정보
 ---
 
-- (The list will be replaced with the table of contents.)
-  {:toc}
+{:toc}
 
 ---
 

@@ -72,8 +72,8 @@
 - date: 10/25
   week: 9
   title: >
-    <strong>고급 CSS / Advanced CSS</strong>
-    - 10 CSS 고급 선택자 / CSS Advanced Selectors
+    <strong>고급 CSS / Advanced CSS</strong> <br />
+    - 10 CSS 고급 선택자 / CSS Advanced Selectors <br />
     - 11 트랜지션과 애니메이션 / Transitions and animations
   slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
   readings:
@@ -93,7 +93,7 @@
   week: 11
   title: >
     <strong>자바스크립트 개요 / Intro to Javascript</strong> <br />
-    - 13 자바스크립트와 첫 만남 / First encounter with JavaScript
+    - 13 자바스크립트와 첫 만남 / First encounter with JavaScript <br />
     - 14 자바스크립트 기본 문법 / JavaScript Basic Syntax
   slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
   readings:
