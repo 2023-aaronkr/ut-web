@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <b>웹</b>프로그래밍기초 <b>WEB</b> Programming Foundations
+title: <b>웹</b>프로그래밍기초<br /><b>WEB</b> Programming Foundations
 description: 259111 • 2023년 2학기 • 교통대학교
 logo: ut-logo.jpg
 news: true
