@@ -7,8 +7,10 @@
     - 01 웹 개발 시작하기, 프로그램 설치 / Start web development, program installation <br />
     - 02 웹 개발 환경 만들기 / Creating a web development environment
   slides: "https://docs.google.com/presentation/d/1ehQfKc4YZYBQHPghrQWBant8ONHxgdfi5bjN7_boGKM/edit?usp=sharing"
-  readings:
-  logistics:
+  readings: >
+    Do It! HTML + CSS + JavaScript, <strong>pp. 1-42</strong>
+  logistics: >
+    <span>1주차 과제:<br><a href="https://codepen.io">CodePen 가입</a></span><br>
 
 - date: 9/6
   week: 2
@@ -17,8 +19,11 @@
     - 03 HTML 기본 문서 만들기 / Creating HTML Basic Documents
     - 04 웹 문서에 다양한 내용 입력하기 / Entering various contents into web documents
   slides: "https://docs.google.com/presentation/d/1pCGKksf_S1F0xufgE8Qdei4A4zMhgWqgLlZRSvUtJG8/edit?usp=sharing"
-  readings:
-  logistics:
+  readings: >
+    Do It! HTML + CSS + JavaScript, <strong>pp. 43-120</strong>
+  logistics: >
+    <span style="color: red">2주차 과제:<br>pp. 119-120</span><br>
+    9/13까지 완성하세요.
 
 - date: 9/13
   week: 3
