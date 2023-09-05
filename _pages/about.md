@@ -11,6 +11,7 @@ news: true
 - **Location:** [W18 (미래융합정보관) - 108호](https://naver.me/GSHd39rS){:target="\_blank"}
 - **KakaoTalk AM:** [카카오톡 ☕ 오픈채팅](https://open.kakao.com/o/gpQLjODf){:target="\_blank"}
 - **KakaoTalk PM:** [카카오톡 🍔 오픈채팅](https://open.kakao.com/o/gEEjkODf){:target="\_blank"}
+- **Portal:** [교통대학교 포탈](https://portal.ut.ac.kr){:target="\_blank"}
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
