@@ -29,9 +29,12 @@
   week: 3
   title: >
     <strong>05 입력 양식 작성하기 / Fill out the input form</strong>
-  slides:
-  readings:
-  logistics:
+  slides: "https://docs.google.com/presentation/d/1lQtRscLnnQmiSr9HnZZYVdUHqAkW-DSApAfHPzsGkLQ/edit?usp=sharing"
+  readings: >
+    Do It! HTML + CSS + JavaScript, <strong>pp. 121-164</strong>
+  logistics: >
+    <span style="color: red">3주차 과제:<br>pp. 163-64</span><br>
+    9/20까지 완성하세요.
 
 - date: 9/20
   week: 4
