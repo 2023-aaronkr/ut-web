@@ -24,8 +24,8 @@
     <a href="https://codepen.io/collection/gYBaGG">2주차 실습 코드 (AM)</a><br />
     <a href="https://codepen.io/collection/PYyeJO">2주차 실습 코드 (PM)</a>
   logistics: >
-    <span style="color: red">2주차 과제:<br>pp. 119-120</span><br>
-    9/13까지 완성하세요.
+    2주차 과제:<br><strong>pp. 119-120</strong><br>
+    <span style="color: red">9/13</span>까지 완성하세요.
 
 - date: 9/13
   week: 3
@@ -35,8 +35,8 @@
   readings: >
     Do It! HTML + CSS + JavaScript, <strong>pp. 121-164</strong>
   logistics: >
-    <span style="color: red">3주차 과제:<br>pp. 163-64</span><br>
-    9/20까지 완성하세요.
+    3주차 과제:<br><strong>pp. 163-64</strong><br>
+    <span style="color: red">9/20</span>까지 완성하세요.
 
 - title: "Module 2: CSS"
 
@@ -50,8 +50,8 @@
   readings: >
     Do It! HTML + CSS + JavaScript, <strong>pp. 165-236</strong>
   logistics: >
-    <span style="color: red">4주차 과제:<br>pp. 233-36</span><br>
-    9/27까지 완성하세요.
+    4주차 과제:<br><strong>pp. 233-36</strong><br>
+    <span style="color: red">9/27</span>까지 완성하세요.
 
 - date: 9/27
   week: 5
@@ -61,8 +61,8 @@
   readings: >
     Do It! HTML + CSS + JavaScript, <strong>pp. 237-291</strong>
   logistics: >
-    <span style="color: red">5주차 과제:<br>pp. 289-91</span><br>
-    10/4까지 완성하세요.
+    5주차 과제:<br><strong>pp. 289-91</strong><br>
+    <span style="color: red">10/4</span>까지 완성하세요.
 
 - date: 10/4
   week: 6
