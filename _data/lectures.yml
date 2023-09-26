@@ -47,16 +47,21 @@
     - 06 CSS의 기본 / CSS Basics <br />
     - 07 텍스트를 표현하는 다양한 스타일 / Various styles to express text
   slides: "https://docs.google.com/presentation/d/1p5Q99nGIXb0XcSgzmT-4BMr_-jBTq10NtLKUudrKnFg/edit?usp=sharing"
-  readings:
-  logistics:
+  readings: >
+    Do It! HTML + CSS + JavaScript, <strong>pp. 121-164</strong>
+  logistics: >
+    <span style="color: red">4주차 과제:<br>pp. 233-36</span><br>
+    9/27까지 완성하세요.
 
 - date: 9/27
   week: 5
   title: >
     <strong>08 레이아웃을 구성하는 CSS 박스 모델 / CSS box models that make up the layout</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1OcBti4zEDNtyN2_WSU89EeLLeBl0PMuW0ZkEl99CS_Y/edit?usp=sharing"
   readings:
-  logistics:
+  logistics: >
+    <span style="color: red">5주차 과제:<br>pp. 289-91</span><br>
+    10/4까지 완성하세요.
 
 - date: 10/4
   week: 6
