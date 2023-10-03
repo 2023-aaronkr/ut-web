@@ -8,6 +8,25 @@ title: Study Guide / 공부 가이드
 
 ---
 
+<style>
+table {
+  border: 1px solid gainsboro;
+  border-bottom: none;
+  border-collapse: collapse;
+}
+th, td {
+  border-bottom: 1px solid gainsboro;
+  padding: 10px;
+}
+th {
+  background-color: lightslategray;
+  color: white;
+}
+td:first-child {
+  background-color: whitesmoke;
+}
+</style>
+
 ## HTML & CSS
 
 - [3. HTML 기본 문서 만들기](#03-html-기본-문서-만들기)
