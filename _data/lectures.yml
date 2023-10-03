@@ -8,7 +8,7 @@
     - 02 웹 개발 환경 만들기 / Creating a web development environment
   slides: "https://docs.google.com/presentation/d/1ehQfKc4YZYBQHPghrQWBant8ONHxgdfi5bjN7_boGKM/edit?usp=sharing"
   readings: >
-    Do It! HTML + CSS + JavaScript, <strong>pp. 1-42</strong>
+    Do It! HTML + CSS + JS, <strong>pp. 1-42</strong>
   logistics: >
     <span>1주차 과제:<br><a href="https://codepen.io">CodePen 가입</a></span><br>
 
@@ -20,7 +20,7 @@
     - 04 웹 문서에 다양한 내용 입력하기 / Entering various contents into web documents
   slides: "https://docs.google.com/presentation/d/1pCGKksf_S1F0xufgE8Qdei4A4zMhgWqgLlZRSvUtJG8/edit?usp=sharing"
   readings: >
-    Do It! HTML + CSS + JavaScript, <strong>pp. 43-120</strong><br />
+    Do It! HTML + CSS + JS, <strong>pp. 43-120</strong><br />
     <a href="https://codepen.io/collection/gYBaGG">2주차 실습 코드 (AM)</a><br />
     <a href="https://codepen.io/collection/PYyeJO">2주차 실습 코드 (PM)</a>
   logistics: >
@@ -33,7 +33,7 @@
     <strong>05 입력 양식 작성하기 / Fill out the input form</strong>
   slides: "https://docs.google.com/presentation/d/1lQtRscLnnQmiSr9HnZZYVdUHqAkW-DSApAfHPzsGkLQ/edit?usp=sharing"
   readings: >
-    Do It! HTML + CSS + JavaScript, <strong>pp. 121-164</strong>
+    Do It! HTML + CSS + JS, <strong>pp. 121-164</strong>
   logistics: >
     3주차 과제:<br><strong>pp. 163-64</strong><br>
     <span style="color: red">9/20</span>까지 완성하세요.
@@ -48,7 +48,7 @@
     - 07 텍스트를 표현하는 다양한 스타일 / Various styles to express text
   slides: "https://docs.google.com/presentation/d/1p5Q99nGIXb0XcSgzmT-4BMr_-jBTq10NtLKUudrKnFg/edit?usp=sharing"
   readings: >
-    Do It! HTML + CSS + JavaScript, <strong>pp. 165-236</strong>
+    Do It! HTML + CSS + JS, <strong>pp. 165-236</strong>
   logistics: >
     4주차 과제:<br><strong>pp. 233-36</strong><br>
     <span style="color: red">9/27</span>까지 완성하세요.
@@ -59,7 +59,7 @@
     <strong>08 레이아웃을 구성하는 CSS 박스 모델 / CSS box models that make up the layout</strong>
   slides: "https://docs.google.com/presentation/d/1OcBti4zEDNtyN2_WSU89EeLLeBl0PMuW0ZkEl99CS_Y/edit?usp=sharing"
   readings: >
-    Do It! HTML + CSS + JavaScript, <strong>pp. 237-291</strong>
+    Do It! HTML + CSS + JS, <strong>pp. 237-291</strong>
   logistics: >
     5주차 과제:<br><strong>pp. 289-91</strong><br>
     <span style="color: red">10/4</span>까지 완성하세요.
@@ -68,9 +68,12 @@
   week: 6
   title: >
     <strong>09 이미지와 그러데이션 효과로 배경 꾸미기 / Decorate the background with images and gradient effects</strong>
-  slides:
-  readings:
-  logistics:
+  slides: "https://docs.google.com/presentation/d/1I_rhqEDmcJHtYlc03Jq2HvgCf9ixr44r_Vu-Zyt7790/edit?usp=sharing"
+  readings: >
+    Do It! HTML + CSS + JS, <strong>pp. 292-317</strong>
+  logistics: >
+    6주차 과제:<br><strong>pp. 315-17</strong><br>
+    <span style="color: red">10/11</span>까지 완성하세요.
 
 - date: 10/11
   week: 7
