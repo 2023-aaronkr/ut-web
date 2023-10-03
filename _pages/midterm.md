@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /guide/
-title: Study Guide / 공부 가이드
+permalink: /midterm/
+title: Midterm Guide / 중간고사 가이드
 ---
 
 {:toc}
@@ -40,8 +40,6 @@ td:first-child {
 - [10. CSS 고급선택자](#10-css-고급선택자)
 
 ---
-
-## 중간고사
 
 ### 03. HTML 기본 문서 만들기
 
@@ -520,7 +518,3 @@ td:first-child {
 | `::grammar-error`  | 요소의 문법 오류를 선택함        |
 
 [목차로 돌아가기](#html--css)
-
----
-
-## 기말고사
