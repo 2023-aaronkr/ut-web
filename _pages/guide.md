@@ -13,6 +13,7 @@ table {
   border: 1px solid gainsboro;
   border-bottom: none;
   border-collapse: collapse;
+  min-width: 80%;
 }
 th, td {
   border-bottom: 1px solid gainsboro;
