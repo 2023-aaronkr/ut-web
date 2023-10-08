@@ -79,9 +79,12 @@
   week: 7
   title: >
     <strong>10 CSS 고급 선택자 / CSS Advanced Selectors</strong>
-  slides:
-  readings:
-  logistics:
+  slides: "https://docs.google.com/presentation/d/1YsWo-K79a2Qh9Nh2EMbX8f3brFHngYa1rVTW1Gv3UOQ/edit?usp=sharing"
+  readings: >
+    Do It! HTML + CSS + JS, <strong>pp. 318-354</strong>
+  logistics: >
+    7주차 과제:<br><strong>pp. 353-54</strong><br>
+    <span style="color: red">10/18</span>까지 완성하세요.
 
 - date: 10/18
   week: 8
