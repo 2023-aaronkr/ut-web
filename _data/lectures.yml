@@ -99,14 +99,17 @@
     </div>
     <a href="https://forms.gle/WNPV2k86ETP6CSLT9">온라인 퀴즈 (B)</a><br>
     <a href="https://docs.google.com/presentation/d/1HiGWwZqgbWuSxyt8zWl55CxVGIYaYcj45vN5t40Ncn8/edit?usp=sharing">실기 시험 (B)</a>
-  
+
 - date: 10/25
   week: 9
   title: >
     <strong>11 트랜지션과 애니메이션 / Transitions and animations</strong>
-  slides:
-  readings:
-  logistics:
+  slides: "https://docs.google.com/presentation/d/1upPRkHb6lK5fjc1YjzhyXoMl-cMhtHCR7JHF_T3Ihdc/edit?usp=sharing"
+  readings: >
+    Do It! HTML + CSS + JS, <strong>pp. 355-387</strong>
+  logistics: >
+    9주차 과제:<br><strong>pp. 386-87</strong><br>
+    <span style="color: red">11/1</span>까지 완성하세요.
 
 - date: 11/1
   week: 10
