@@ -116,9 +116,13 @@
   week: 10
   title: >
     <strong>12 반응형 웹과 미디어 쿼리 / Responsive web and media queries</strong>
-  slides:
-  readings:
-  logistics:
+  slides: "https://docs.google.com/presentation/d/1mP4MywtNQwwPUpmXfqGSqF6-H0v3fVW9BZVBwb8ZcMM/edit?usp=sharing"
+  readings: >
+    Do It! HTML + CSS + JS, <strong>pp. 388-438</strong><br>
+    <strong>실습:</strong> <a href="https://flexboxfroggy.com">Flexbox Froggy</a> &bull; <a href="https://cssgridgarden.com">CSS Grid Garden</a>
+  logistics: >
+    10주차 과제:<br><strong>pp. 403-408, 434-436</strong><br>
+    <span style="color: red">11/8</span>까지 완성하세요.
 
 - title: "Module 3: JavaScript"
 
