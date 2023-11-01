@@ -120,9 +120,10 @@
   readings: >
     Do It! HTML + CSS + JS, <strong>pp. 388-438</strong><br>
     <a href="https://flexboxfroggy.com">Flexbox Froggy</a><br>
-    <a href="https://cssgridgarden.com">CSS Grid Garden</a>
+    <a href="https://cssgridgarden.com">CSS Grid Garden</a><br>
+    <a href="https://forms.gle/G31cG31rFYmmRE8D9" style="color: red;">스크린샷 업로드</a>
   logistics: >
-    10주차 과제:<br><strong>pp. 403-408, 434-436</strong><br>
+    10주차 과제:<br><strong>pp. 434-436</strong><br>
     <span style="color: red">11/8</span>까지 완성하세요.
 
 - title: "Module 3: JavaScript"
