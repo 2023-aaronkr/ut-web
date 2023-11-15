@@ -178,12 +178,20 @@
   slides: "https://docs.google.com/presentation/d/1ov5yqFbidtRTE7OetUqsNO6NvxQsdViJuO4pH9MNojs/edit?usp=sharing"
   readings:
   logistics: >
-    <strong>최종 프로젝트</strong>
+    <strong><a href="https://docs.google.com/presentation/d/1ov5yqFbidtRTE7OetUqsNO6NvxQsdViJuO4pH9MNojs/edit?usp=sharing">최종 프로젝트</a></strong>
 
 - date: 12/13
   week: 16
   title: >
     <strong>기말고사 / Final Test</strong>
+  slides:
+  readings:
+  logistics: 
+
+- date: 12/20
+  week: 17
+  title: >
+    <strong>성적 / Final Grades</strong>
   slides:
   readings:
   logistics: 
