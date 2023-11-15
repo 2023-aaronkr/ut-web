@@ -137,6 +137,7 @@
   slides: "https://docs.google.com/presentation/d/13eabFkE9F5mVUyqz1lUFsYuF1WvL65W4fGPM4DFSxmM/edit?usp=sharing"
   readings:
   logistics: >
+    CodePen에서 11주차 실습 코드<br>
     <a href="https://docs.google.com/presentation/d/1ov5yqFbidtRTE7OetUqsNO6NvxQsdViJuO4pH9MNojs/edit?usp=sharing">최종 프로젝트</a>
 
 - date: 11/15
@@ -145,7 +146,9 @@
     <strong>15 함수와 이벤트 / Functions and events</strong>
   slides: "https://docs.google.com/presentation/d/1QKoBiTCxOqqh10W7n4eOYCGis4LOYE8IVWFQG-Wicfc/edit?usp=sharing"
   readings:
-  logistics:
+  logistics: >
+    CodePen에서 12주차 실습 코드<br>
+    최종 프로젝트
 
 - date: 11/22
   week: 13
@@ -153,7 +156,9 @@
     <strong>16 자바스크립트와 객체 / JavaScript and Objects</strong>
   slides:
   readings:
-  logistics:
+  logistics: >
+    CodePen에서 13주차 실습 코드<br>
+    최종 프로젝트
 
 - date: 11/29
   week: 14
@@ -161,14 +166,25 @@
     <strong>17 문서 객체 모델(DOM) / Document Object Model (DOM)</strong>
   slides:
   readings:
-  logistics:
+  logistics: >
+    CodePen에서 14주차 실습 코드<br>
+    최종 프로젝트
 
 - date: 12/6
   week: 15
   title: >
-    <strong>Final Project / Final Test</strong>
+    <strong>NO SCHOOL</strong> 최종 프로젝트 / Final Project<br>
+    <span style="color: red;">최종 프로젝트와 기말고사를 준비하세요.</span>
+  slides: "https://docs.google.com/presentation/d/1ov5yqFbidtRTE7OetUqsNO6NvxQsdViJuO4pH9MNojs/edit?usp=sharing"
+  readings:
+  logistics: >
+    CodePen에서 13주차 실습 코드<br>
+    최종 프로젝트
 
 - date: 12/13
   week: 16
   title: >
-    <strong>Final Grades</strong>
+    <strong>기말고사 / Final Test</strong>
+  slides:
+  readings:
+  logistics: 
