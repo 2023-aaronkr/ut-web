@@ -196,8 +196,18 @@
       <a href="https://docs.google.com/presentation/d/17qFMX3SJYgDX4iD9h9WM1cbLnRQu1H_yKKsU6LO9mt4/edit?usp=sharing">실기 시험 (B)</a>
     </div>
 
-- date: 12/20
+- date: 12/18
   week: 17
+  title: >
+    <strong>최종 프로젝트 제출 / Submit Final Project</strong>
+  slides:
+  readings:
+  logistics: >
+    <a href="https://forms.gle/W23sRTU61arTT6Xy9">최종 프로젝트 제출 링크</a><br>
+    제출 방법 영상 (12.16일에 공유할게요)
+
+- date: 12/22
+  week: 18
   title: >
     <strong>성적 / Final Grades</strong>
   slides:
